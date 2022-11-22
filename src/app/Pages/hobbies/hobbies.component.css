@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: lightseagreen;
+  font-weight: bold;
+}
+img{
+    width:20%;
+    height:auto;
+}
+#hob {
+  background-color: deepskyblue;
+  font-size: medium;
+  margin: 50px;
+  padding: 10px;
+  border: groove;
+  float:left;
+  
+}
+#right{
+    float:right;
+}

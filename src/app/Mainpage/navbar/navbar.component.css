@@ -1,0 +1,7 @@
+.navbar-light .navbar-nav .nav-link .active-link{
+    color: chocolate;
+    font-weight: bold;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}

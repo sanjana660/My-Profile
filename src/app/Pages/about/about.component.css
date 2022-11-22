@@ -1,0 +1,12 @@
+h1{
+    text-align:center;
+    color:lightseagreen;
+    font-weight:bold;
+}
+#intro{
+    background-color:palegreen;
+    font-size:medium;
+    margin: 20px;
+    padding: 10px;
+    border: groove;
+}

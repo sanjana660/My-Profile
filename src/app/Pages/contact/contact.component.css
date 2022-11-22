@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: lightseagreen;
+  font-weight: bold;
+}
+#cont {
+  background-color: yellowgreen;
+  font-size: medium;
+  margin: 40px;
+  padding: 10px;
+  border: groove;
+}
+a{
+    text-decoration:none;
+
+}
+a:hover{
+  font-weight:bold;
+  transition:1ms;
+}

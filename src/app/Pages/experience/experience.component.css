@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: lightseagreen;
+  font-weight: bold;
+}
+
+#exp {
+  background-color: coral;
+  font-size: medium;
+  margin: 50px;
+  padding: 10px;
+  border: groove;
+}
